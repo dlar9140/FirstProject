@@ -11,6 +11,6 @@
 int main()
 {
     // insert code here...
-    std::cout << "First time with C++\n";
-    
+    cout << "First time with C++\n";
+    return 0;
 }
